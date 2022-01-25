@@ -1,0 +1,27 @@
+header{
+    background-color:#244751 ;
+    color:orange;
+}
+
+body{
+    background-color: #fff8f8;
+    font-family: 'Mochiy Pop P One', Neonderthaw;
+}
+
+main{
+    background-color:white; 
+    padding: 16px;
+}
+
+.finstagram-post{
+    margin-bottom: 48px;
+}
+
+
+  a.photo{
+    transition: padding 0.5s;
+  }
+ a.photo:hover{
+    padding: 10px;
+  
+  }
