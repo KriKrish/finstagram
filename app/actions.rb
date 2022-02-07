@@ -17,7 +17,7 @@ get '/' do
         comment_count:1,
         comments: [{
             username:"Dear Angel",
-            text: "Dear Angel ineeds her solitude time !! Hugs ma girl !!"
+            text: "Dear Angel needs her solitude time !! Hugs ma girl !!"
         } ]    
 }
 
